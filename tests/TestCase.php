@@ -2,9 +2,9 @@
 
 namespace Braceyourself\AiSolution\Tests;
 
+use Braceyourself\AiSolution\AiSolutionServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Braceyourself\AiSolution\AiSolutionServiceProvider;
 
 class TestCase extends Orchestra
 {

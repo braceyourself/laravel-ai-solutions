@@ -2,9 +2,9 @@
 
 namespace Braceyourself\AiSolution;
 
+use Braceyourself\AiSolution\Commands\AiSolutionCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Braceyourself\AiSolution\Commands\AiSolutionCommand;
 
 class AiSolutionServiceProvider extends PackageServiceProvider
 {
