@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Braceyourself\AiSolution\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class AiSolutionCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-ai-solutions';
 
     public $description = 'My command';
 
